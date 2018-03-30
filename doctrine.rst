@@ -272,7 +272,7 @@ just a simple PHP class.
 
     .. code-block:: terminal
 
-        $ php bin/console doctrine:generate:entity
+        $ php bin/console make:entity
 
 .. index::
     single: Doctrine; Adding mapping metadata
